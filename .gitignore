@@ -1,0 +1,8 @@
+*.env
+private/
+node_modules/
+downloaded/
+customerBackUp.json
+customerNumberName.json
+customerPricelistNumber.json
+customerPrices.json
